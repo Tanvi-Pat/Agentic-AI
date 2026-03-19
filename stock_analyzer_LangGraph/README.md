@@ -64,7 +64,7 @@ stock_agent/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/stock-analyzer.git
+git clone https://github.com/Tanvi-Pat/Agentic-AI.git
 cd stock-analyzer
 ```
 
