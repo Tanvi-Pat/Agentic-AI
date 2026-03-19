@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+openai
+yfinance
+pandas
+pydantic
+google-serper-api
+python-dotenv
+typing
+json
+IPython
