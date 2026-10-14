@@ -1,1 +1,0 @@
-Agentic-AI repo consists of Projects based on different agentic frameworks like CrewAI, OpenAI SDK, Langchain. 
